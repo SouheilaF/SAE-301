@@ -1,1 +1,1 @@
-Ce dossier servira à déposer les livrables de la SAE !
+Ce dossier sert à déposer les livrables de la SAE !
