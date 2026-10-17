@@ -1,1 +1,19 @@
 
+# Configuration locale et secrets
+.env
+.env.*
+!.env.example
+
+# Dépendances PHP installées localement
+/vendor/
+
+# Fichiers temporaires et journaux
+*.log
+*.tmp
+
+# Fichiers du système et de l'éditeur
+.DS_Store
+Thumbs.db
+.vscode/
+
+
